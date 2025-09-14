@@ -1,0 +1,6 @@
+title: "Random Iowa (Archive)"
+description: "A curated collection of blog posts and comments from the Random Iowa blog, previously hosted on Blogger"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
